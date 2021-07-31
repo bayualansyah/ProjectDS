@@ -4,6 +4,8 @@
 3. LBB: Interactive Plotting : https://bayualansyah.shinyapps.io/LosAngeles-Airbnb/
 4. LBB: Regression Model : https://rpubs.com/bayualansyah/RM-Graduate_Admission
 5. LBB: Classification in Machine Learning I : https://rpubs.com/bayualansyah/c1-heart_disease
+6. LBB: Unsupervised Learning: https://rpubs.com/bayualansyah/LBB7_UnsupervisedLearning
+7. LBB: Time Series & Forecasting : https://rpubs.com/bayualansyah/LBB8_TimeSeries-Forecasting
 
 
 # Capstone Project
